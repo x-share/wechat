@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Wechat.EnterpriseAccount.Cache.CacheEx" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAABAAAAABAAAAAAAAAAAQAAAAACAAAA=</HashCode>
+      <FileName>Cache\CacheEx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Cache.CacheHelper" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAACAAAAIAACAAAAAAAAA=</HashCode>
+      <FileName>Cache\CacheHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.AccessToken.AccessToken" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAMAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Wechat\AccessToken\AccessToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.AccessToken.AccessTokenManager" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQABAAAAAAEAEAAAAAAAAAAAAAAAABAAAAAAIAAAI=</HashCode>
+      <FileName>Wechat\AccessToken\AccessTokenManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.AccessToken.DefaultAccessTokenRepository" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\AccessToken\IAccessTokenRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.AuthsuccRequest" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\Api\Authsucc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.AuthsuccResponse" Collapsed="true">
+    <Position X="2" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Wechat\Api\Authsucc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.GetTokenRequest" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\Api\GetToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.GetTokenReponse" Collapsed="true">
+    <Position X="4.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Wechat\Api\GetToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.GetUserInfoRequest" Collapsed="true">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\Api\GetUserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.GetUserInfoReponse" Collapsed="true">
+    <Position X="8.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAEAQA=</HashCode>
+      <FileName>Wechat\Api\GetUserInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.Oauth2AuthorizeUrl" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAIAAAAAAAgAAAAEAAAAAAEAAAAAAQAAIA=</HashCode>
+      <FileName>Wechat\Api\Oauth2AuthorizeUrl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.SendMessage.BaseSendMessageRequest" Collapsed="true">
+    <Position X="12.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAABBAAACAABAAAAIAAAAEAAAAAAA=</HashCode>
+      <FileName>Wechat\Api\SendMessage\BaseSendMessageRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.SendMessage.SendImageMessageRequest" Collapsed="true">
+    <Position X="11.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAABA=</HashCode>
+      <FileName>Wechat\Api\SendMessage\SendImageMessageRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.SendMessage.SendMessageCommonResponse" Collapsed="true">
+    <Position X="6.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIBAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\Api\SendMessage\SendMessageCommonResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.SendMessage.SendMpNewsMessageRequest" Collapsed="true">
+    <Position X="13.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAEAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Wechat\Api\SendMessage\SendMpNewsMessageRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.SendMessage.SendNewsMessageRequest" Collapsed="true">
+    <Position X="15.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Wechat\Api\SendMessage\SendNewsMessageRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Api.SendMessage.SendTextMessageRequest" Collapsed="true">
+    <Position X="9" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAECAAAAAA=</HashCode>
+      <FileName>Wechat\Api\SendMessage\SendTextMessageRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.ApiInfo" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAABAAAMEAAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\ApiInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Crypt.Cryptography" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACAAAAQAAAAAAAEAAAAACAACAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Wechat\Crypt\Cryptography.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Crypt.WXBizMsgCrypt" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAIAIAAACQAAAAAAAAAAACAQAAAAAAAAABA=</HashCode>
+      <FileName>Wechat\Crypt\WXBizMsgCrypt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Http.WXRequest" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAABAAAAEBA=</HashCode>
+      <FileName>Wechat\Http\HttpHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Http.WxBaseReponse" Collapsed="true">
+    <Position X="5.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Wechat\Http\WxBaseReponse.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Http.WxBaseRequest&lt;T&gt;" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAoAAAAAAgAgAIgAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\Http\WxBaseRequest.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Http.WxGetRequest&lt;T&gt;" Collapsed="true">
+    <Position X="4.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\Http\WxGetRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Http.WxGetWithTokenRequest&lt;T&gt;" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Wechat\Http\WxGetRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Http.WxPostRequest&lt;T&gt;" Collapsed="true">
+    <Position X="12.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\Http\WxPostRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.Wechat.Http.WxPostWithTokenRequest&lt;T&gt;" Collapsed="true">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Wechat\Http\WxPostRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wechat.EnterpriseAccount.WXCONFIG" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAEAEAAAAAAAAAACEAAAAAAAAAAAASAABA=</HashCode>
+      <FileName>WXCONFIG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Wechat.EnterpriseAccount.Wechat.AccessToken.IAccessTokenRepository" Collapsed="true">
+    <Position X="18.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\AccessToken\IAccessTokenRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Wechat.EnterpriseAccount.Wechat.Http.IHttpRequest" Collapsed="true">
+    <Position X="20" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAgAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\Http\IHttpRequest.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Wechat.EnterpriseAccount.Wechat.Http.IHttpResponse" Collapsed="true">
+    <Position X="21.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wechat\Http\IHttpRequest.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
