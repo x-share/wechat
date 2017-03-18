@@ -11,4 +11,5 @@ var res = mess.Request();
 ```
 >是不是很方便
 ### 2、再看设计
-![d1 icon](https://github.com/x-share/wechat/blob/master/Design/wx.png?raw=true)
+![d1 icon](https://github.com/x-share/wechat/blob/master/Design/wx2.png)
+![d2 icon](https://github.com/x-share/wechat/blob/master/Design/wx.png)
